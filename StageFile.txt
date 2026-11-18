@@ -1,0 +1,2 @@
+This is Stage Branch File
+I am a Automation Tester
